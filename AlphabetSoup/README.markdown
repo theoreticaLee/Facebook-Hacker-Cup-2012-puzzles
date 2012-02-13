@@ -11,22 +11,22 @@ The first line of the input file contains a single integer T: the number of test
 Output T lines, one for each test case. For each case, output “Case #t: n”, where t is the test case number (starting from 1) and n is the number of times the word “HACKERCUP” can be placed side-by-side using the letters from the sentence.
 
 ## Constraints ##
-1 < T ≤ 20
-Sentences contain only the upper-case letters A-Z and the space character
-Each sentence contains at least one letter, and contains at most 1000 characters, including spaces
+* 1 < T ≤ 20
+* Sentences contain only the upper-case letters A-Z and the space character
+* Each sentence contains at least one letter, and contains at most 1000 characters, including spaces
 
 ## Sample Input ##
-5
-WELCOME TO FACEBOOK HACKERCUP
-CUP WITH LABEL HACKERCUP BELONGS TO HACKER
-QUICK CUTE BROWN FOX JUMPS OVER THE LAZY DOG
-MOVE FAST BE BOLD
-HACK THE HACKERCUP
+* 5
+* WELCOME TO FACEBOOK HACKERCUP
+* CUP WITH LABEL HACKERCUP BELONGS TO HACKER
+* QUICK CUTE BROWN FOX JUMPS OVER THE LAZY DOG
+* MOVE FAST BE BOLD
+* HACK THE HACKERCUP
 
 
 ## Sample Output ##
-Case #1: 1
-Case #2: 2
-Case #3: 1
-Case #4: 0
-Case #5: 1
+* Case #1: 1
+* Case #2: 2
+* Case #3: 1
+* Case #4: 0
+* Case #5: 1
